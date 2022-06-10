@@ -1,6 +1,8 @@
 # Welcome to I wanna be the one
 ---
 ## The game supports Windows operating system only!
+## How to download the game? <br>
+* Simply click the "Code" on your right side of this github page (green one) and click "Download ZIP". when you unzipped, just click the "exe" in the folder to run the game and don't move other files/folders or delete them.
 ---
 1. Basic operation：
 * Character jump for "shift", press twice in a row for double jump 
@@ -58,3 +60,5 @@ If you saved the game before, make sure you go to the right archive next time an
 ![death](demo-screenshots/7.jpg "death")
 
 ![second level](demo-screenshots/8.jpg "second level")
+
+# More interesting things are waiting for you to discover!

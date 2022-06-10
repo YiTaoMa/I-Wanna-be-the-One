@@ -1,12 +1,12 @@
 # Welcome to Mystery
 ---
-* First level riddle:<br>
+* **Level 1 riddle:**<br>
 Is the back of the starting point the end?
 
-* Level 2 riddle:<br>
+* **Level 2 riddle:**<br>
 Is the back of the end the beginning?
 
-* Riddle 3:<br>
+* **Level 3 riddle:**<br>
 1. Blue, is the "4" below the button a secret?
 2. The riddle of riddles, look to the top of the end point, there is something else?
 3. Why is there a trap missing, it looks out of place? (MAIN: Need to get this to unlock the next level!)
