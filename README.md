@@ -41,3 +41,20 @@ Each level of the game has hidden items, you need to find and collect them and t
 7. Reminder：<br>
 Make it a good habit to save the game, otherwise it will be hard to survive without the archive.
 If you saved the game before, make sure you go to the right archive next time and enter the "LoadGame" portal instead of choosing a new difficulty, otherwise the game will continue on that new difficulty and overwrite your old archive (if you saved in the new one).
+---
+# Demo
+![start interface](demo-screenshots/1.jpg "start interface")
+
+![choose data interface](demo-screenshots/2.jpg "choose data interface")
+
+![choose difficulties interface](demo-screenshots/3.jpg "choose difficulties interface")
+
+![choose option interface](demo-screenshots/4.jpg "choose option interface")
+
+![Hub interface](demo-screenshots/5.jpg "Hub interface")
+
+![first level](demo-screenshots/6.jpg "first level")
+
+![death](demo-screenshots/7.jpg "death")
+
+![second level](demo-screenshots/8.jpg "second level")
