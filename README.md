@@ -21,7 +21,7 @@
 * End the game: ESC
 
 * Take a screenshot: F9
----
+
 2. How to start the game? :<br>
 Press "shift" (jump key) to continue/start the game and then go to the interface to choose the game archive, left and right arrow keys to control the character to choose the archive and press shift to continue.
 
@@ -40,5 +40,4 @@ Each level of the game has hidden items, you need to find and collect them and t
 
 7. Reminder：<br>
 Make it a good habit to save the game, otherwise it will be hard to survive without the archive.
-<br>
 If you saved the game before, make sure you go to the right archive next time and enter the "LoadGame" portal instead of choosing a new difficulty, otherwise the game will continue on that new difficulty and overwrite your old archive (if you saved in the new one).
