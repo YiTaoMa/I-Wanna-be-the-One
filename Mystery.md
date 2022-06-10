@@ -7,9 +7,9 @@ Is the back of the starting point the end?
 Is the back of the end the beginning?
 
 * Riddle 3:<br>
-1. Blue, is the "4" below the button a secret?
-2. The riddle of riddles, look to the top of the end point, there is something else?
-3. Why is there a trap missing, it looks out of place? (MAIN: Need to get this to unlock the next level!)
+  1. Blue, is the "4" below the button a secret?
+  2. The riddle of riddles, look to the top of the end point, there is something else?
+  3. Why is there a trap missing, it looks out of place? (MAIN: Need to get this to unlock the next level!)
 
 * There are 5 hidden items to collect in this game.
 
