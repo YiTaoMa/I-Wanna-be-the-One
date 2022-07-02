@@ -44,6 +44,8 @@ Each level of the game has hidden items, you need to find and collect them and t
 Make it a good habit to save the game, otherwise it will be hard to survive without the archive.
 If you saved the game before, make sure you go to the right archive next time and enter the "LoadGame" portal instead of choosing a new difficulty, otherwise the game will continue on that new difficulty and overwrite your old archive (if you saved in the new one).
 ---
+#### This game is also available on itch.io. Check it out!
+---
 # Demo
 ![start interface](demo-screenshots/1.jpg "start interface")
 
