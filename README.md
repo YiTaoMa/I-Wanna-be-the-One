@@ -48,6 +48,10 @@ If you saved the game before, make sure you go to the right archive next time an
 https://ejmyt.itch.io/i-wanna-be-the-one
 ---
 # Demo
+![start interface](demo-screenshots/IMG_7064.jpg "boss_1")
+
+![start interface](demo-screenshots/IMG_7063.jpg "boss_2")
+
 ![start interface](demo-screenshots/1.jpg "start interface")
 
 ![choose data interface](demo-screenshots/2.jpg "choose data interface")
